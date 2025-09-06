@@ -1,6 +1,7 @@
 package com.tiredforeternity.stonevariants;
 
 import com.tiredforeternity.stonevariants.block.ModBlocks;
+import com.tiredforeternity.stonevariants.item.ModCreativeModeTabs;
 import com.tiredforeternity.stonevariants.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.bus.EventBus;
@@ -40,6 +41,8 @@ public class StoneVariants {
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -63,6 +66,7 @@ public class StoneVariants {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.VEINY_COBBLESTONE);
             event.accept(ModBlocks.SNOWY_STONE_BRICKS);
+            event.accept(ModBlocks.TEST_BLOCK);
         }
     }
 

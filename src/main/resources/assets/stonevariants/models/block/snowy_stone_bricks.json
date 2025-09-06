@@ -1,8 +1,9 @@
 {
   "parent": "minecraft:block/orientable",
   "textures": {
-    "top": "stonevariants:block/snowy_stone_bricks",
+    "up": "stonevariants:block/snowy_stone_bricks",
     "side": "stonevariants:block/snowy_stone_bricks_side",
-    "bottom": "stonevariants:block/stone_bricks_bottom"
+    "front": "stonevariants:block/snowy_stone_bricks_side",
+    "down": "stonevariants:block/stone_bricks_bottom"
   }
 }

@@ -22,7 +22,10 @@ public class ModBlocks {
     public static final DeferredBlock<Block> VEINY_COBBLESTONE = registerBlock("veiny_cobblestone",
             () -> new  Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.TERRACOTTA_CYAN)
-                    .sound(SoundType.SCULK)));
+                    .sound(SoundType.SCULK)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
 
     public static final DeferredBlock<Block> SNOWY_STONE_BRICKS = registerBlock("snowy_stone_bricks",
             () -> new Block(BlockBehaviour.Properties.of()
@@ -31,6 +34,9 @@ public class ModBlocks {
                     .instrument(NoteBlockInstrument.BASEDRUM)
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<Block> TEST_BLOCK = registerBlock("test_block",
+            () -> new Block(BlockBehaviour.Properties.of()));
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
