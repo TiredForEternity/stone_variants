@@ -62,11 +62,19 @@ public class StoneVariants {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.SCULK_SEED);
             event.accept(ModItems.ROOTS);
+            event.accept(ModItems.MUD_BALL);
+            event.accept(ModItems.BUCKET_OF_DIRT);
+            event.accept(ModItems.BUCKET_OF_SAND);
+            event.accept(ModItems.BUCKET_OF_MUD);
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.DIRTY_COBBLSTONE);
+            event.accept(ModBlocks.SANDY_COBBLSTONE);
+            event.accept(ModBlocks.SNOWY_COBBLSTONE);
+            event.accept(ModBlocks.MUDDY_COBBLSTONE);
+            event.accept(ModBlocks.ROOTED_COBBLSTONE);
             event.accept(ModBlocks.VEINY_COBBLESTONE);
             event.accept(ModBlocks.SNOWY_STONE_BRICKS);
-            event.accept(ModBlocks.TEST_BLOCK);
         }
     }
 

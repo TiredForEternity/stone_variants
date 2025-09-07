@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "stonevariants:sculk_seed"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "stonevariants:veiny_cobblestone"
+  }
+}

@@ -4,7 +4,16 @@
 
   "item.stonevariants.sculk_seed": "Sculk Seed",
   "item.stonevariants.roots": "Roots",
+  "item.stonevariants.mud_ball": "Mud Ball",
+  "item.stonevariants.bucket_of_dirt": "Bucket of Dirt",
+  "item.stonevariants.bucket_of_sand": "Bucket of Sand",
+  "item.stonevariants.bucket_of_mud": "Bucket of Mud",
 
+  "block.stonevariants.dirty_cobblestone": "Dirt-Covered Cobblestone",
+  "block.stonevariants.sandy_cobblestone": "Sand-Covered Cobblestone",
+  "block.stonevariants.snowy_cobblestone": "Snow-Covered Cobblestone",
+  "block.stonevariants.muddy_cobblestone": "Muddy Cobblestone",
+  "block.stonevariants.rooted_cobblestone": "Root-bound Cobblestone",
   "block.stonevariants.veiny_cobblestone": "Veiny Cobblestone",
   "block.stonevariants.snowy_stone_bricks": "Snow-Covered Stone Bricks"
 }

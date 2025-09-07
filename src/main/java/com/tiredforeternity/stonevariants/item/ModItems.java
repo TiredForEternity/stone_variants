@@ -14,6 +14,14 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> ROOTS = ITEMS.register("roots",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> MUD_BALL = ITEMS.register("mud_ball",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> BUCKET_OF_DIRT = ITEMS.register("bucket_of_dirt",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> BUCKET_OF_SAND = ITEMS.register("bucket_of_sand",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> BUCKET_OF_MUD = ITEMS.register("bucket_of_mud",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

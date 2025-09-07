@@ -23,12 +23,21 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.SCULK_SEED);
                         output.accept(ModItems.ROOTS);
+                        output.accept(ModItems.BUCKET_OF_DIRT);
+                        output.accept(ModItems.BUCKET_OF_SAND);
+                        output.accept(ModItems.BUCKET_OF_MUD);
+                        output.accept(ModItems.MUD_BALL);
                     }).build());
 
     public static final Supplier<CreativeModeTab> STONE_VARIANTS_BLOCKS_TAB = CREATIVE_MODE_TAB.register("blocks_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.VEINY_COBBLESTONE.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.SNOWY_STONE_BRICKS.get()))
                     .title(Component.translatable("creativetab.stonevariants.blocks_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
+                        output.accept(ModBlocks.DIRTY_COBBLSTONE);
+                        output.accept(ModBlocks.SANDY_COBBLSTONE);
+                        output.accept(ModBlocks.SNOWY_COBBLSTONE);
+                        output.accept(ModBlocks.MUDDY_COBBLSTONE);
+                        output.accept(ModBlocks.ROOTED_COBBLSTONE);
                         output.accept(ModBlocks.VEINY_COBBLESTONE);
                         output.accept(ModBlocks.SNOWY_STONE_BRICKS);
                     }).build());
