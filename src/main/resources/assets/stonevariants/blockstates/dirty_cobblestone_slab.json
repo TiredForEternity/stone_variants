@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stonevariants:block/dirty_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "stonevariants:block/dirty_cobblestone"
+    },
+    "type=top": {
+      "model": "stonevariants:block/dirty_cobblestone_slab_top"
+    }
+  }
+}

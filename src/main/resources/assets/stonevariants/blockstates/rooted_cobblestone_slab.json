@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stonevariants:block/rooted_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "stonevariants:block/rooted_cobblestone"
+    },
+    "type=top": {
+      "model": "stonevariants:block/rooted_cobblestone_slab_top"
+    }
+  }
+}

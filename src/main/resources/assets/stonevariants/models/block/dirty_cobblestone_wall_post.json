@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_post",
+  "textures": {
+    "wall": "stonevariants:block/dirty_cobblestone"
+  }
+}

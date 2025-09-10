@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "stonevariants:block/sculky_stone_bricks"
+  }
+}
