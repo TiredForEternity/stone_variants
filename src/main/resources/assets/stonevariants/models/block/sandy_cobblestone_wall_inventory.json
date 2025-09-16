@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "stonevariants:block/sandy_cobblestone"
+  }
+}

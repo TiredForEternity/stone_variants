@@ -257,8 +257,58 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
 
+    public static final DeferredBlock<StairBlock> DIRTY_STONE_BRICKS_STAIRS = registerBlock("dirty_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.DIRTY_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.DIRT)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> DIRTY_STONE_BRICKS_SLAB = registerBlock("dirty_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.DIRT)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> DIRTY_STONE_BRICKS_WALL = registerBlock("dirty_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.DIRT)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
     public static final DeferredBlock<Block> SANDY_STONE_BRICKS = registerBlock("sandy_stone_bricks",
             () -> new Block(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.SAND)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<StairBlock> SANDY_STONE_BRICKS_STAIRS = registerBlock("sandy_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.SANDY_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.SAND)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> SANDY_STONE_BRICKS_SLAB = registerBlock("sandy_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.SAND)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> SANDY_STONE_BRICKS_WALL = registerBlock("sandy_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.SAND)
                     .sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM)
@@ -273,8 +323,58 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
 
+    public static final DeferredBlock<StairBlock> SNOWY_STONE_BRICKS_STAIRS = registerBlock("snowy_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.SNOWY_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.SNOW)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> SNOWY_STONE_BRICKS_SLAB = registerBlock("snowy_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.SNOW)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> SNOWY_STONE_BRICKS_WALL = registerBlock("snowy_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.SNOW)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
     public static final DeferredBlock<Block> MUDDY_STONE_BRICKS = registerBlock("muddy_stone_bricks",
             () -> new Block(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.TERRACOTTA_BROWN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<StairBlock> MUDDY_STONE_BRICKS_STAIRS = registerBlock("muddy_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.MUDDY_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.TERRACOTTA_BROWN)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> MUDDY_STONE_BRICKS_SLAB = registerBlock("muddy_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.TERRACOTTA_BROWN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> MUDDY_STONE_BRICKS_WALL = registerBlock("muddy_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.TERRACOTTA_BROWN)
                     .sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM)
@@ -289,6 +389,31 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
 
+    public static final DeferredBlock<StairBlock> ROOTED_STONE_BRICKS_STAIRS = registerBlock("rooted_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.ROOTED_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.COLOR_BROWN)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> ROOTED_STONE_BRICKS_SLAB = registerBlock("rooted_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_BROWN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> ROOTED_STONE_BRICKS_WALL = registerBlock("rooted_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_BROWN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
     public static final DeferredBlock<Block> SCULKY_STONE_BRICKS = registerBlock("sculky_stone_bricks",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.TERRACOTTA_CYAN)
@@ -297,8 +422,58 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
 
+    public static final DeferredBlock<StairBlock> SCULKY_STONE_BRICKS_STAIRS = registerBlock("sculky_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.SCULKY_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.TERRACOTTA_CYAN)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> SCULKY_STONE_BRICKS_SLAB = registerBlock("sculky_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.TERRACOTTA_CYAN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> SCULKY_STONE_BRICKS_WALL = registerBlock("sculky_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.TERRACOTTA_CYAN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
     public static final DeferredBlock<Block> LEAFY_STONE_BRICKS = registerBlock("leafy_stone_bricks",
             () -> new Block(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_GREEN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<StairBlock> LEAFY_STONE_BRICKS_STAIRS = registerBlock("leafy_stone_bricks_stairs",
+            () -> new StairBlock(ModBlocks.LEAFY_STONE_BRICKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.COLOR_GREEN)
+                            .sound(SoundType.STONE)
+                            .instrument(NoteBlockInstrument.BASEDRUM)
+                            .requiresCorrectToolForDrops()
+                            .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<SlabBlock> LEAFY_STONE_BRICKS_SLAB = registerBlock("leafy_stone_bricks_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_GREEN)
+                    .sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .requiresCorrectToolForDrops()
+                    .strength(1.5F, 6.0F)));
+
+    public static final DeferredBlock<WallBlock> LEAFY_STONE_BRICKS_WALL = registerBlock("leafy_stone_bricks_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_GREEN)
                     .sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM)

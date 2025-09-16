@@ -62,12 +62,33 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.LEAFY_COBBLESTONE_SLAB);
                         output.accept(ModBlocks.LEAFY_COBBLESTONE_WALL);
                         output.accept(ModBlocks.DIRTY_STONE_BRICKS);
+                        output.accept(ModBlocks.DIRTY_STONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.DIRTY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.DIRTY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.SANDY_STONE_BRICKS);
+                        output.accept(ModBlocks.SANDY_COBBLESTONE_STAIRS);
+                        output.accept(ModBlocks.SANDY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SANDY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.SNOWY_STONE_BRICKS);
+                        output.accept(ModBlocks.SNOWY_STONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.SNOWY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SNOWY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.MUDDY_STONE_BRICKS);
+                        output.accept(ModBlocks.MUDDY_STONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.MUDDY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.MUDDY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.ROOTED_STONE_BRICKS);
+                        output.accept(ModBlocks.ROOTED_STONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.ROOTED_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.ROOTED_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.SCULKY_STONE_BRICKS);
+                        output.accept(ModBlocks.SCULKY_STONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.SCULKY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SCULKY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.LEAFY_STONE_BRICKS);
+                        output.accept(ModBlocks.LEAFY_STONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.LEAFY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.LEAFY_STONE_BRICKS_WALL);
 
                     }).build());
 

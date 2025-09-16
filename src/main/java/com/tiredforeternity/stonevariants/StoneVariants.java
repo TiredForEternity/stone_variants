@@ -97,12 +97,33 @@ public class StoneVariants {
             event.accept(ModBlocks.LEAFY_COBBLESTONE_SLAB);
             event.accept(ModBlocks.LEAFY_COBBLESTONE_WALL);
             event.accept(ModBlocks.DIRTY_STONE_BRICKS);
+            event.accept(ModBlocks.DIRTY_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.DIRTY_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.DIRTY_STONE_BRICKS_WALL);
             event.accept(ModBlocks.SANDY_STONE_BRICKS);
+            event.accept(ModBlocks.SANDY_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.SANDY_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.SANDY_STONE_BRICKS_WALL);
             event.accept(ModBlocks.SNOWY_STONE_BRICKS);
+            event.accept(ModBlocks.SNOWY_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.SNOWY_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.SNOWY_STONE_BRICKS_WALL);
             event.accept(ModBlocks.MUDDY_STONE_BRICKS);
+            event.accept(ModBlocks.MUDDY_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.MUDDY_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.MUDDY_STONE_BRICKS_WALL);
             event.accept(ModBlocks.ROOTED_STONE_BRICKS);
+            event.accept(ModBlocks.ROOTED_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.ROOTED_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.ROOTED_STONE_BRICKS_WALL);
             event.accept(ModBlocks.SCULKY_STONE_BRICKS);
+            event.accept(ModBlocks.SCULKY_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.SCULKY_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.SCULKY_STONE_BRICKS_WALL);
             event.accept(ModBlocks.LEAFY_STONE_BRICKS);
+            event.accept(ModBlocks.LEAFY_STONE_BRICKS_STAIRS);
+            event.accept(ModBlocks.LEAFY_STONE_BRICKS_SLAB);
+            event.accept(ModBlocks.LEAFY_STONE_BRICKS_WALL);
         }
     }
 
