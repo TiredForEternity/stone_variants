@@ -60,12 +60,7 @@ public class StoneVariants {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.SCULK_SEED);
-            event.accept(ModItems.ROOTS);
-            event.accept(ModItems.MUD_BALL);
-            event.accept(ModItems.BUCKET_OF_DIRT);
-            event.accept(ModItems.BUCKET_OF_SAND);
-            event.accept(ModItems.BUCKET_OF_MUD);
+
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.DIRTY_COBBLSTONE);

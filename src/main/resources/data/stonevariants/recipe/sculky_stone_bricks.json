@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building_block",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "minecraft:sculk_vein"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "stonevariants:sculky_stone_bricks"
+  }
+}

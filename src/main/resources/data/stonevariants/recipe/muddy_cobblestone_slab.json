@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building_blocks",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": "stonevariants:muddy_cobblestone"
+  },
+  "result": {
+    "id": "stonevariants:muddy_cobblestone_slab",
+    "count": 6
+  }
+}

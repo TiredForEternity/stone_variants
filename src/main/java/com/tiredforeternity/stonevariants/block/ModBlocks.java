@@ -109,7 +109,7 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
 
-    public static final DeferredBlock<Block> SNOWY_COBBLESTONE_WALL = registerBlock("snowy_cobblestone_wall",
+    public static final DeferredBlock<WallBlock> SNOWY_COBBLESTONE_WALL = registerBlock("snowy_cobblestone_wall",
             () -> new WallBlock(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.SNOW)
                     .sound(SoundType.SNOW)
@@ -208,7 +208,7 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(1.5F, 6.0F)));
 
-    public static final DeferredBlock<Block> VEINY_COBBLESTONE_WALL = registerBlock("veiny_cobblestone_wall",
+    public static final DeferredBlock<WallBlock> VEINY_COBBLESTONE_WALL = registerBlock("veiny_cobblestone_wall",
             () -> new WallBlock(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.TERRACOTTA_CYAN)
                     .sound(SoundType.SCULK)

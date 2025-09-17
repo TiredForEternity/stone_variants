@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "stonevariants:block/leafy_cobblestone",
-    "side": "stonevariants:block/leafy_cobblestone",
-    "top": "stonevariants:block/leafy_cobblestone"
-  }
-}

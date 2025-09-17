@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building_block",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "minecraft:mud"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "stonevariants:muddy_stone_bricks"
+  }
+}

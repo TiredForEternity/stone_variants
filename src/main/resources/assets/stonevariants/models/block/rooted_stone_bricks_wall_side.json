@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_wall_side",
-  "textures": {
-    "wall": "stonevariants:block/rooted_stone_bricks"
-  }
-}

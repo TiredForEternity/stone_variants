@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "entries": {
+    "stonevariants:leafy_cobblestone": 1,
+    "minecraft:mossy_cobblestone": -1
+  }
+}

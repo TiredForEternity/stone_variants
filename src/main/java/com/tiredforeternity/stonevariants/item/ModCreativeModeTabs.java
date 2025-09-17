@@ -17,16 +17,11 @@ public class ModCreativeModeTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, StoneVariants.MODID);
 
     public static final Supplier<CreativeModeTab> STONE_VARIANTS_ITEMS_TAB = CREATIVE_MODE_TAB.register("items_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SCULK_SEED.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.DIRTY_COBBLSTONE.get()))
                     .withTabsBefore(ResourceLocation.fromNamespaceAndPath(StoneVariants.MODID, "blocks_tab"))
                     .title(Component.translatable("creativetab.stonevariants.items_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.SCULK_SEED);
-                        output.accept(ModItems.ROOTS);
-                        output.accept(ModItems.BUCKET_OF_DIRT);
-                        output.accept(ModItems.BUCKET_OF_SAND);
-                        output.accept(ModItems.BUCKET_OF_MUD);
-                        output.accept(ModItems.MUD_BALL);
+
                     }).build());
 
     public static final Supplier<CreativeModeTab> STONE_VARIANTS_BLOCKS_TAB = CREATIVE_MODE_TAB.register("blocks_tab",
@@ -66,7 +61,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.DIRTY_STONE_BRICKS_SLAB);
                         output.accept(ModBlocks.DIRTY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.SANDY_STONE_BRICKS);
-                        output.accept(ModBlocks.SANDY_COBBLESTONE_STAIRS);
+                        output.accept(ModBlocks.SANDY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SANDY_STONE_BRICKS_SLAB);
                         output.accept(ModBlocks.SANDY_STONE_BRICKS_WALL);
                         output.accept(ModBlocks.SNOWY_STONE_BRICKS);

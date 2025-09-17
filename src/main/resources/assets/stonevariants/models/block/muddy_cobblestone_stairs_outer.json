@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "stonevariants:block/muddy_cobblestone",
-    "side": "stonevariants:block/muddy_cobblestone",
-    "top": "stonevariants:block/muddy_cobblestone"
-  }
-}

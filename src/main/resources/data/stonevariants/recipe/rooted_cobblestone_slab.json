@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building_blocks",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": "stonevariants:rooted_cobblestone"
+  },
+  "result": {
+    "id": "stonevariants:rooted_cobblestone_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "values": [
+    "stonevariants:dirty_cobblestone_stairs",
+    "stonevariants:sandy_cobblestone_stairs",
+    "stonevariants:snowy_cobblestone_stairs",
+    "stonevariants:muddy_cobblestone_stairs",
+    "stonevariants:rooted_cobblestone_stairs",
+    "stonevariants:veiny_cobblestone_stairs",
+    "stonevariants:leafy_cobblestone_stairs",
+    "stonevariants:dirty_stone_bricks_stairs",
+    "stonevariants:sandy_stone_bricks_stairs",
+    "stonevariants:snowy_stone_bricks_stairs",
+    "stonevariants:muddy_stone_bricks_stairs",
+    "stonevariants:rooted_stone_bricks_stairs",
+    "stonevariants:sculky_stone_bricks_stairs",
+    "stonevariants:leafy_stone_bricks_stairs"
+  ]
+}
