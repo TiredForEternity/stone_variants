@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "stonevariants:block/cracked_sandstone_bricks",
+    "side": "stonevariants:block/cracked_sandstone_bricks",
+    "top": "stonevariants:block/cracked_sandstone_bricks"
+  }
+}

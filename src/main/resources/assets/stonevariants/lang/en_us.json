@@ -3,72 +3,115 @@
   "creativetab.stonevariants.items_tab": "Stone Variants Recipe Items",
 
   "block.stonevariants.dirty_cobblestone": "Dirt-Covered Cobblestone",
-  "block.stonevariants.dirty_cobblestone_stairs": "Dirt-Covered Cobblestone Stairs",
   "block.stonevariants.dirty_cobblestone_slab": "Dirt-Covered Cobblestone Slab",
+  "block.stonevariants.dirty_cobblestone_stairs": "Dirt-Covered Cobblestone Stairs",
   "block.stonevariants.dirty_cobblestone_wall": "Dirt-Covered Cobblestone Wall",
 
   "block.stonevariants.sandy_cobblestone": "Sand-Covered Cobblestone",
-  "block.stonevariants.sandy_cobblestone_stairs": "Sand-Covered Cobblestone Stairs",
   "block.stonevariants.sandy_cobblestone_slab": "Sand-Covered Cobblestone Slab",
+  "block.stonevariants.sandy_cobblestone_stairs": "Sand-Covered Cobblestone Stairs",
   "block.stonevariants.sandy_cobblestone_wall": "Sand-Covered Cobblestone Wall",
 
   "block.stonevariants.snowy_cobblestone": "Snow-Covered Cobblestone",
-  "block.stonevariants.snowy_cobblestone_stairs": "Snow-Covered Cobblestone Stairs",
   "block.stonevariants.snowy_cobblestone_slab": "Snow-Covered Cobblestone Slab",
+  "block.stonevariants.snowy_cobblestone_stairs": "Snow-Covered Cobblestone Stairs",
   "block.stonevariants.snowy_cobblestone_wall": "Snow-Covered Cobblestone Wall",
 
   "block.stonevariants.muddy_cobblestone": "Muddy Cobblestone",
-  "block.stonevariants.muddy_cobblestone_stairs": "Muddy Cobblestone Stairs",
   "block.stonevariants.muddy_cobblestone_slab": "Muddy Cobblestone Slab",
+  "block.stonevariants.muddy_cobblestone_stairs": "Muddy Cobblestone Stairs",
   "block.stonevariants.muddy_cobblestone_wall": "Muddy Cobblestone Wall",
 
   "block.stonevariants.rooted_cobblestone": "Root-Bound Cobblestone",
-  "block.stonevariants.rooted_cobblestone_stairs": "Root-Bound Cobblestone Stairs",
   "block.stonevariants.rooted_cobblestone_slab": "Root-Bound Cobblestone Slab",
+  "block.stonevariants.rooted_cobblestone_stairs": "Root-Bound Cobblestone Stairs",
   "block.stonevariants.rooted_cobblestone_wall": "Root-Bound Cobblestone Wall",
 
   "block.stonevariants.veiny_cobblestone": "Veiny Cobblestone",
-  "block.stonevariants.veiny_cobblestone_stairs": "Veiny Cobblestone Stairs",
   "block.stonevariants.veiny_cobblestone_slab": "Veiny Cobblestone Slab",
+  "block.stonevariants.veiny_cobblestone_stairs": "Veiny Cobblestone Stairs",
   "block.stonevariants.veiny_cobblestone_wall": "Veiny Cobblestone Wall",
 
   "block.stonevariants.leafy_cobblestone": "Vine-Bound Cobblestone",
-  "block.stonevariants.leafy_cobblestone_stairs": "Vine-Bound Cobblestone Stairs",
   "block.stonevariants.leafy_cobblestone_slab": "Vine-Bound Cobblestone Slab",
+  "block.stonevariants.leafy_cobblestone_stairs": "Vine-Bound Cobblestone Stairs",
   "block.stonevariants.leafy_cobblestone_wall": "Vine-Bound Cobblestone Wall",
 
   "block.stonevariants.dirty_stone_bricks": "Dirt-Covered Stone Bricks",
-  "block.stonevariants.dirty_stone_bricks_stairs": "Dirt-Covered Stone Brick Stairs",
   "block.stonevariants.dirty_stone_bricks_slab": "Dirt-Covered Stone Brick Slab",
+  "block.stonevariants.dirty_stone_bricks_stairs": "Dirt-Covered Stone Brick Stairs",
   "block.stonevariants.dirty_stone_bricks_wall": "Dirt-Covered Stone Brick Wall",
 
   "block.stonevariants.sandy_stone_bricks": "Sand-Covered Stone Bricks",
-  "block.stonevariants.sandy_stone_bricks_stairs": "Sand-Covered Stone Brick Stairs",
   "block.stonevariants.sandy_stone_bricks_slab": "Sand-Covered Stone Brick Slab",
+  "block.stonevariants.sandy_stone_bricks_stairs": "Sand-Covered Stone Brick Stairs",
   "block.stonevariants.sandy_stone_bricks_wall": "Sand-Covered Stone Brick Wall",
 
   "block.stonevariants.snowy_stone_bricks": "Snow-Covered Stone Bricks",
-  "block.stonevariants.snowy_stone_bricks_stairs": "Snow-Covered Stone Brick Stairs",
   "block.stonevariants.snowy_stone_bricks_slab": "Snow-Covered Stone Brick Slab",
+  "block.stonevariants.snowy_stone_bricks_stairs": "Snow-Covered Stone Brick Stairs",
   "block.stonevariants.snowy_stone_bricks_wall": "Snow-Covered Stone Brick Wall",
 
   "block.stonevariants.muddy_stone_bricks": "Muddy Stone Bricks",
-  "block.stonevariants.muddy_stone_bricks_stairs": "Muddy Stone Brick Stairs",
   "block.stonevariants.muddy_stone_bricks_slab": "Muddy Stone Brick Slab",
+  "block.stonevariants.muddy_stone_bricks_stairs": "Muddy Stone Brick Stairs",
   "block.stonevariants.muddy_stone_bricks_wall": "Muddy Stone Brick Wall",
 
   "block.stonevariants.rooted_stone_bricks": "Root-Bound Stone Bricks",
-  "block.stonevariants.rooted_stone_bricks_stairs": "Root-Bound Stone Brick Stairs",
   "block.stonevariants.rooted_stone_bricks_slab": "Root-Bound Stone Brick Slab",
+  "block.stonevariants.rooted_stone_bricks_stairs": "Root-Bound Stone Brick Stairs",
   "block.stonevariants.rooted_stone_bricks_wall": "Root-Bound Stone Brick Wall",
 
   "block.stonevariants.sculky_stone_bricks": "Sculk-Infested Stone Bricks",
-  "block.stonevariants.sculky_stone_bricks_stairs": "Sculk-Infested Stone Brick Stairs",
   "block.stonevariants.sculky_stone_bricks_slab": "Sculk-Infested Stone Brick Slab",
+  "block.stonevariants.sculky_stone_bricks_stairs": "Sculk-Infested Stone Brick Stairs",
   "block.stonevariants.sculky_stone_bricks_wall": "Sculk-Infested Stone Brick Wall",
 
   "block.stonevariants.leafy_stone_bricks": "Vine-Bound Stone Bricks",
-  "block.stonevariants.leafy_stone_bricks_stairs": "Vine-Bound Stone Brick Stairs",
   "block.stonevariants.leafy_stone_bricks_slab": "Vine-Bound Stone Brick Slab",
-  "block.stonevariants.leafy_stone_bricks_wall": "Vine-Bound Stone Brick Wall"
+  "block.stonevariants.leafy_stone_bricks_stairs": "Vine-Bound Stone Brick Stairs",
+  "block.stonevariants.leafy_stone_bricks_wall": "Vine-Bound Stone Brick Wall",
+
+  "block.stonevariants.sandstone_bricks": "Sandstone Bricks",
+  "block.stonevariants.sandstone_bricks_slab": "Sandstone Brick Slab",
+  "block.stonevariants.sandstone_bricks_stairs": "Sandstone Brick Stairs",
+  "block.stonevariants.sandstone_bricks_wall": "Sandstone Brick Wall",
+
+  "block.stonevariants.chiseled_sandstone_bricks": "Chiseled Sandstone Bricks",
+  "block.stonevariants.chiseled_sandstone_bricks_slab": "Chiseled Sandstone Brick Slab",
+
+  "block.stonevariants.cracked_sandstone_bricks": "Cracked Sandstone Bricks",
+  "block.stonevariants.cracked_sandstone_bricks_slab": "Cracked Sandstone Brick Slab",
+  "block.stonevariants.cracked_sandstone_bricks_stairs": "Cracked Sandstone Brick Stairs",
+  "block.stonevariants.cracked_sandstone_bricks_wall": "Cracked Sandstone Brick Wall",
+
+  "block.stonevariants.dirty_sandstone_bricks": "Dirt-Covered Sandstone Bricks",
+  "block.stonevariants.dirty_sandstone_bricks_slab": "Dirt-Covered Sandstone Brick Slab",
+  "block.stonevariants.dirty_sandstone_bricks_stairs": "Dirt-Covered Sandstone Brick Stairs",
+  "block.stonevariants.dirty_sandstone_bricks_wall": "Dirt-Covered Sandstone Brick Wall",
+
+  "block.stonevariants.snowy_sandstone_bricks": "Snow-Covered Sandstone Bricks",
+  "block.stonevariants.snowy_sandstone_bricks_slab": "Snow-Covered Sandstone Brick Slab",
+  "block.stonevariants.snowy_sandstone_bricks_stairs": "Snow-Covered Sandstone Brick Stairs",
+  "block.stonevariants.snowy_sandstone_bricks_wall": "Snow-Covered Sandstone Brick Wall",
+
+  "block.stonevariants.muddy_sandstone_bricks": "Muddy Sandstone Bricks",
+  "block.stonevariants.muddy_sandstone_bricks_slab": "Muddy Sandstone Brick Slab",
+  "block.stonevariants.muddy_sandstone_bricks_stairs": "Muddy Sandstone Brick Stairs",
+  "block.stonevariants.muddy_sandstone_bricks_wall": "Muddy Sandstone Brick Wall",
+
+  "block.stonevariants.rooted_sandstone_bricks": "Root-Bound Sandstone Bricks",
+  "block.stonevariants.rooted_sandstone_bricks_slab": "Root-Bound Sandstone Brick Slab",
+  "block.stonevariants.rooted_sandstone_bricks_stairs": "Root-Bound Sandstone Brick Stairs",
+  "block.stonevariants.rooted_sandstone_bricks_wall": "Root-Bound Sandstone Brick Wall",
+
+  "block.stonevariants.sculky_sandstone_bricks": "Sculk-Infested Sandstone Bricks",
+  "block.stonevariants.sculky_sandstone_bricks_slab": "Sculk-Infested Sandstone Brick Slab",
+  "block.stonevariants.sculky_sandstone_bricks_stairs": "Sculk-Infested Sandstone Brick Stairs",
+  "block.stonevariants.sculky_sandstone_bricks_wall": "Sculk-Infested Sandstone Brick Wall",
+
+  "block.stonevariants.leafy_sandstone_bricks": "Vine-Bound Sandstone Bricks",
+  "block.stonevariants.leafy_sandstone_bricks_slab": "Vine-Bound Sandstone Brick Slab",
+  "block.stonevariants.leafy_sandstone_bricks_stairs": "Vine-Bound Sandstone Brick Stairs",
+  "block.stonevariants.leafy_sandstone_bricks_wall": "Vine-Bound Sandstone Brick Wall"
 }

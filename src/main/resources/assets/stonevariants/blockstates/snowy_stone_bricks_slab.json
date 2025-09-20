@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stonevariants:block/snowy_stone_bricks_slab"
+    },
+    "type=double": {
+      "model": "stonevariants:block/snowy_stone_bricks"
+    },
+    "type=top": {
+      "model": "stonevariants:block/snowy_stone_bricks_slab_top"
+    }
+  }
+}

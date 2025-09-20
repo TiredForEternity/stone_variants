@@ -29,62 +29,117 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.stonevariants.blocks_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.DIRTY_COBBLSTONE);
-                        output.accept(ModBlocks.DIRTY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.DIRTY_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.DIRTY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.DIRTY_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.SANDY_COBBLSTONE);
-                        output.accept(ModBlocks.SANDY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.SANDY_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.SANDY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.SANDY_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.SNOWY_COBBLSTONE);
-                        output.accept(ModBlocks.SNOWY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.SNOWY_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.SNOWY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.SNOWY_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.MUDDY_COBBLSTONE);
-                        output.accept(ModBlocks.MUDDY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.MUDDY_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.MUDDY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.MUDDY_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.ROOTED_COBBLSTONE);
-                        output.accept(ModBlocks.ROOTED_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.ROOTED_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.ROOTED_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.ROOTED_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.VEINY_COBBLESTONE);
-                        output.accept(ModBlocks.VEINY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.VEINY_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.VEINY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.VEINY_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.LEAFY_COBBLESTONE);
-                        output.accept(ModBlocks.LEAFY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.LEAFY_COBBLESTONE_SLAB);
+                        output.accept(ModBlocks.LEAFY_COBBLESTONE_STAIRS);
                         output.accept(ModBlocks.LEAFY_COBBLESTONE_WALL);
+
                         output.accept(ModBlocks.DIRTY_STONE_BRICKS);
-                        output.accept(ModBlocks.DIRTY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.DIRTY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.DIRTY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.DIRTY_STONE_BRICKS_WALL);
+
                         output.accept(ModBlocks.SANDY_STONE_BRICKS);
-                        output.accept(ModBlocks.SANDY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SANDY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SANDY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SANDY_STONE_BRICKS_WALL);
+
                         output.accept(ModBlocks.SNOWY_STONE_BRICKS);
-                        output.accept(ModBlocks.SNOWY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SNOWY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SNOWY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SNOWY_STONE_BRICKS_WALL);
+
                         output.accept(ModBlocks.MUDDY_STONE_BRICKS);
-                        output.accept(ModBlocks.MUDDY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.MUDDY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.MUDDY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.MUDDY_STONE_BRICKS_WALL);
+
                         output.accept(ModBlocks.ROOTED_STONE_BRICKS);
-                        output.accept(ModBlocks.ROOTED_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.ROOTED_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.ROOTED_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.ROOTED_STONE_BRICKS_WALL);
+
                         output.accept(ModBlocks.SCULKY_STONE_BRICKS);
-                        output.accept(ModBlocks.SCULKY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SCULKY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SCULKY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.SCULKY_STONE_BRICKS_WALL);
+
                         output.accept(ModBlocks.LEAFY_STONE_BRICKS);
-                        output.accept(ModBlocks.LEAFY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.LEAFY_STONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.LEAFY_STONE_BRICKS_STAIRS);
                         output.accept(ModBlocks.LEAFY_STONE_BRICKS_WALL);
 
+                        output.accept(ModBlocks.SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.CHISELED_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.CHISELED_SANDSTONE_BRICKS_SLAB);
+
+                        output.accept(ModBlocks.CRACKED_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.CRACKED_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.CRACKED_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.CRACKED_SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.DIRTY_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.DIRTY_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.DIRTY_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.DIRTY_SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.SNOWY_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.SNOWY_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SNOWY_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.SNOWY_SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.MUDDY_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.MUDDY_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.MUDDY_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.MUDDY_SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.ROOTED_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.ROOTED_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.ROOTED_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.ROOTED_SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.SCULKY_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.SCULKY_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.SCULKY_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.SCULKY_SANDSTONE_BRICKS_WALL);
+
+                        output.accept(ModBlocks.LEAFY_SANDSTONE_BRICKS);
+                        output.accept(ModBlocks.LEAFY_SANDSTONE_BRICKS_SLAB);
+                        output.accept(ModBlocks.LEAFY_SANDSTONE_BRICKS_STAIRS);
+                        output.accept(ModBlocks.LEAFY_SANDSTONE_BRICKS_WALL);
                     }).build());
 
 

@@ -1,0 +1,46 @@
+{
+  "values": [
+    "stonevariants:sandstone_bricks",
+    "stonevariants:sandstone_bricks_slab",
+    "stonevariants:sandstone_bricks_stairs",
+    "stonevariants:sandstone_bricks_wall",
+
+    "stonevariants:chiseled_sandstone_bricks",
+    "stonevariants:chiseled_sandstone_bricks_slab",
+
+    "stonevariants:cracked_sandstone_bricks",
+    "stonevariants:cracked_sandstone_bricks_slab",
+    "stonevariants:cracked_sandstone_bricks_stairs",
+    "stonevariants:cracked_sandstone_bricks_wall",
+
+    "stonevariants:dirty_sandstone_bricks",
+    "stonevariants:dirty_sandstone_bricks_slab",
+    "stonevariants:dirty_sandstone_bricks_stairs",
+    "stonevariants:dirty_sandstone_bricks_wall",
+
+    "stonevariants:snowy_sandstone_bricks",
+    "stonevariants:snowy_sandstone_bricks_slab",
+    "stonevariants:snowy_sandstone_bricks_stairs",
+    "stonevariants:snowy_sandstone_bricks_wall",
+
+    "stonevariants:muddy_sandstone_bricks",
+    "stonevariants:muddy_sandstone_bricks_slab",
+    "stonevariants:muddy_sandstone_bricks_stairs",
+    "stonevariants:muddy_sandstone_bricks_wall",
+
+    "stonevariants:rooted_sandstone_bricks",
+    "stonevariants:rooted_sandstone_bricks_slab",
+    "stonevariants:rooted_sandstone_bricks_stairs",
+    "stonevariants:rooted_sandstone_bricks_wall",
+
+    "stonevariants:sculky_sandstone_bricks",
+    "stonevariants:sculky_sandstone_bricks_slab",
+    "stonevariants:sculky_sandstone_bricks_stairs",
+    "stonevariants:sculky_sandstone_bricks_wall",
+
+    "stonevariants:leafy_sandstone_bricks",
+    "stonevariants:leafy_sandstone_bricks_slab",
+    "stonevariants:leafy_sandstone_bricks_stairs",
+    "stonevariants:leafy_sandstone_bricks_wall"
+  ]
+}

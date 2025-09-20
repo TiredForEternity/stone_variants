@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "stonevariants:block/sandstone_bricks",
+    "side": "stonevariants:block/sandstone_bricks",
+    "top": "stonevariants:block/sandstone_bricks"
+  }
+}

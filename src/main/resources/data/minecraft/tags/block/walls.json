@@ -7,12 +7,22 @@
     "stonevariants:rooted_cobblestone_wall",
     "stonevariants:veiny_cobblestone_wall",
     "stonevariants:leafy_cobblestone_wall",
+
     "stonevariants:dirty_stone_bricks_wall",
     "stonevariants:sandy_stone_bricks_wall",
     "stonevariants:snowy_stone_bricks_wall",
     "stonevariants:muddy_stone_bricks_wall",
     "stonevariants:rooted_stone_bricks_wall",
     "stonevariants:sculky_stone_bricks_wall",
-    "stonevariants:leafy_stone_bricks_wall"
+    "stonevariants:leafy_stone_bricks_wall",
+
+    "stonevariants:sandstone_bricks_wall",
+    "stonevariants:cracked_sandstone_bricks_wall",
+    "stonevariants:dirty_sandstone_bricks_wall",
+    "stonevariants:snowy_sandstone_bricks_wall",
+    "stonevariants:muddy_sandstone_bricks_wall",
+    "stonevariants:rooted_sandstone_bricks_wall",
+    "stonevariants:sculky_sandstone_bricks_wall",
+    "stonevariants:leafy_sandstone_bricks_wall"
   ]
 }

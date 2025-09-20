@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0,
+  "ingredient": {
+    "item": "stonevariants:sandstone_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "stonevariants:cracked_sandstone_bricks"
+  }
+}

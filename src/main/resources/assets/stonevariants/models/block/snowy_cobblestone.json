@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "up": "stonevariants:block/snowy_cobblestone",
+    "side": "stonevariants:block/cobblestone_bottom",
+    "front": "stonevariants:block/cobblestone_bottom",
+    "down": "stonevariants:block/cobblestone_bottom"
+  }
+}

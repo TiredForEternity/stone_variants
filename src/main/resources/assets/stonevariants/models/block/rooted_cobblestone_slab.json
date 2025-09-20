@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "stonevariants:block/rooted_cobblestone",
+    "side": "stonevariants:block/rooted_cobblestone",
+    "top": "stonevariants:block/rooted_cobblestone"
+  }
+}

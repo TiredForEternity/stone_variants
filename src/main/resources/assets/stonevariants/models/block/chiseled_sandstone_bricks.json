@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "up": "stonevariants:block/chiseled_sandstone_bricks_top",
+    "side": "stonevariants:block/chiseled_sandstone_bricks",
+    "front": "stonevariants:block/chiseled_sandstone_bricks",
+    "down": "stonevariants:block/chiseled_sandstone_bricks_top"
+  }
+}
