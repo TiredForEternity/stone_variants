@@ -510,7 +510,7 @@ public class ModBlocks {
                             .sound(SoundType.STONE)
                             .instrument(NoteBlockInstrument.BASEDRUM)
                             .requiresCorrectToolForDrops()
-                            .strength(2.0F, 6.0F)));
+                            .strength(2.0F,6.0F)));
 
     public static final DeferredBlock<WallBlock> SANDSTONE_BRICKS_WALL = registerBlock("sandstone_bricks_wall",
             () -> new WallBlock(BlockBehaviour.Properties.of()
@@ -651,7 +651,7 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(2.0F, 6.0F)));
 
-    public static final DeferredBlock<StairBlock> MUDDY_SANDSTONE_BRICKS_STAIRS = registerBlock("muddu_sandstone_bricks_stairs",
+    public static final DeferredBlock<StairBlock> MUDDY_SANDSTONE_BRICKS_STAIRS = registerBlock("muddy_sandstone_bricks_stairs",
             () -> new StairBlock(ModBlocks.MUDDY_SANDSTONE_BRICKS.get().defaultBlockState(),
                     BlockBehaviour.Properties.of()
                             .mapColor(MapColor.TERRACOTTA_CYAN)

@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "stonevariants:block/sandstone_bricks",
     "side": "stonevariants:block/snowy_sandstone_bricks_side",
-    "top": "stonevariants:block/snowy_stone_bricks"
+    "top": "stonevariants:block/snowy_bricks"
   }
 }
